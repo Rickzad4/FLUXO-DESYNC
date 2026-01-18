@@ -1,6 +1,3 @@
--- Leak By RickZx
--- discord.gg/T8jxFfZ5Ta
-
 local FFlags = {
     GameNetPVHeaderRotationalVelocityZeroCutoffExponent = -5000,
     LargeReplicatorWrite5 = true,
